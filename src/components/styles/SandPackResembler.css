@@ -1,0 +1,30 @@
+.Compiler_header {
+  display: flex;
+  justify-content: space-around;
+}
+
+#root
+  > div
+  > div
+  > div.sp-c-ikJbEZ.sp-layout
+  > div.sp-c-euXojQ.sp-editor.sp-stack
+  > div.sp-c-gtcpyq.sp-code-editor
+  > button {
+  background-color: red;
+  bottom: 90%;
+  border-radius: 5px 5px 5px 5px;
+  right: 40px;
+  color: white;
+}
+
+#root
+  > div
+  > div
+  > div.sp-c-ikJbEZ.sp-layout
+  > div.sp-c-euXojQ.sp-editor.sp-stack
+  > div
+  > div
+  > div
+  > div.cm-scroller {
+  margin-top: 20px;
+}
