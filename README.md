@@ -1,3 +1,19 @@
+
+
+# Code Compiler
+
+A versatile code compiler that supports multiple programming languages, allowing users to write, execute, and view the output of their code. The application also includes theme customization for a personalized user experience.
+
+## Features
+
+- **Multi-Language Support**: Write and execute code in various programming languages.
+- **Real-Time Output**: View the output of your code instantly.
+- **Theme Customization**: Choose from multiple themes to personalize the interface.
+- **User-Friendly Interface**: Easy-to-use interface for seamless coding and execution.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
